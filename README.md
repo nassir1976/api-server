@@ -1,4 +1,10 @@
 # api-server
+- <a href=https://api-server-01.herokuapp.com/// class="icon fa-twitter"><span      class="label">go to heroku app </span></a>
+
+- <a href=https://github.com/nassir1976/api-server.git class="icon fa-twitter"><span class="label">go to gitHub </span></a>
+
+- <a href=https://github.com/nassir1976/api-server/pull/1 class="icon fa-twitter"><span class="label"> pull request </span></a> 
+
 
 # Phase 3 Requirements
 - Build a REST API using Express, by creating a proper series of endpoints that perform CRUD operations on a Mongo Database, using the REST standard
